@@ -1,0 +1,82 @@
+
+
+.bookadd{
+    margin: auto;
+    border: 2px solid black;
+    height: auto;
+    width: 40vw;
+    /* background-color: aliceblue; */
+    /* color: white; */
+    /* backdrop-filter: blur(10px); */
+    box-shadow: 0px 0px 30px rgba(227,228,237,0.37);
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    
+   
+}
+
+.search{
+    padding: 20px;
+    margin: 20px 0px 0 500px;
+    width: 30vw;
+    height: 50px;
+}
+.cente{
+    text-align: center;
+    margin-top: 70px;
+    font-family: fantasy;
+    color: rgba(25, 26, 26, 0.799);
+ 
+    
+}
+.booklabel{
+    margin: 20px;
+  width: 7vw;
+}
+
+.bookinp{
+    margin: 4px;
+    width: 25vw;
+    padding: 1px;
+}
+.bookabtn{
+    /* text-align: center; */
+    background-color: rgb(67, 170, 67);
+    color: white;
+    border-radius: 0px 20px;
+    width: 100px;
+    padding: 5px;
+    border: none;
+    /* margin: 15px 10px 15px 200px; */
+}
+.bookcbtn{
+    /* text-align: center; */
+    background-color:rgb(235, 65, 65);
+    /* border: none; */
+    color: white;
+    border-radius: 20px 10px;
+    width: 100px;
+    padding: 5px;
+    /* text-decoration: none; */
+   transition: 1s;
+}
+.bookcbtn:hover{
+    transform: scale(1.1);
+}
+.bookSbtn{
+  
+    background-color: rgb(208, 91, 41);
+    border-radius: 15px 10px;
+    border: 2px solid white;
+    width: 100px;
+    padding: 5px;
+   
+    margin: 15px 10px 15px 200px;
+}
+.add{
+    text-decoration: none;
+    color: white;
+    
+    /* margin: auto; */
+}

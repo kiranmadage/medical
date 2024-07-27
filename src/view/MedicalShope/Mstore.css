@@ -1,0 +1,83 @@
+
+
+.first{
+    height: 580px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: rgb(70, 70, 70); */
+  /* margin: 0%; */
+  }
+  .second{
+    height: 490px;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 20px;
+    background-color: white;
+    width: 450.67px;
+    padding-bottom: 12px;
+    margin-top: 80px;
+  }
+  
+  /* .sign{
+    margin-left: -56%;
+    font-size: 30px;
+    font-family: Okra, Helvetica, sans-serif;
+    font-weight: 300;
+    margin-top: -1px;
+    color: rgb(79, 223, 94);
+  } */
+  
+.textbox{
+    height: 32px;
+    width: 380px;
+    font-size: large;
+    color: rgb(104, 104, 104);
+    padding-top: 7px;
+    padding-bottom: 6px;
+    padding-left: 9px;
+    margin-bottom: 25px;
+    border-radius: 7px;
+    border: 1px solid rgb(214, 212, 212);
+  }
+  
+
+
+
+  /* .info{
+    border: 1px solid black;
+    background-color: rgb(42, 187, 42);
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+  }
+  .in{
+   
+    color: white;
+  text-align: center;
+    
+   
+  } */
+  .head{
+    /* text-align: center; */
+    display: flex;
+    justify-content: space-evenly;
+    height: 30px;
+
+    
+  }
+  
+  .Sbtn{
+  
+    background-color: rgb(208, 91, 41);
+    border-radius: 15px 10px;
+    border: 2px solid white;
+    width: 100px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+  }
+  .btn{
+    text-decoration: none;
+    color: white;
+  }

@@ -1,0 +1,11 @@
+.mlogo{
+    height: 50px;
+    border-radius: 10px;
+    width: 100px;
+    margin: auto;
+    /* padding: 5px; */
+}
+
+.nav{
+    background-color: #0b2e40;
+}

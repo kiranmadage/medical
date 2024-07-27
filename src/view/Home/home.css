@@ -1,0 +1,27 @@
+.img1 {
+    width: 100vw;
+    height: 40vh;
+}
+
+.hdisplay {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.hing {
+    width: 370px;
+    height: 300px;
+    margin: 20px 0px;
+}
+
+/* .shop {
+   
+    border: 2px solid;
+    
+} */
+ .hname{
+    font-family: fantasy;
+    margin-left: 20px;
+    color: rgb(184, 50, 74);
+ }

@@ -1,0 +1,51 @@
+
+
+.first1{
+    height: 580px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: rgb(70, 70, 70); */
+  margin: 0%;
+  }
+  .second1{
+    height: 300px;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 20px;
+    background-color: white;
+    width: 450.67px;
+    padding-bottom: 12px;
+  }
+  
+  .sign1{
+    margin-left: -65%;
+    font-size: 30px;
+    font-family: Okra, Helvetica, sans-serif;
+    font-weight: 300;
+    margin-top: -1px;
+    color: rgb(97, 97, 97);
+  }
+  .textbox1{
+    height: 32px;
+    width: 380px;
+    font-size: large;
+    color: rgb(104, 104, 104);
+    padding-top: 7px;
+    padding-bottom: 6px;
+    padding-left: 9px;
+    margin-bottom: 25px;
+    border-radius: 7px;
+    border: 1px solid rgb(214, 212, 212);
+  }
+  .lbtn{
+  
+    background-color: rgb(208, 91, 41);
+    border-radius: 15px 10px;
+    border: 2px solid white;
+    width: 100px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+  }
+  

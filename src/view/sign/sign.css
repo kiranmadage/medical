@@ -1,0 +1,96 @@
+.first {
+    height: 580px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(70, 70, 70); */
+    margin: 0%;
+}
+
+.second {
+    height: 490px;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 20px;
+    background-color: white;
+    width: 450.67px;
+    padding-bottom: 12px;
+}
+
+.sign {
+    /* margin-left: -65%; */
+    font-size: 30px;
+    font-family: Okra, Helvetica, sans-serif;
+    font-weight: 300;
+    margin-top: -1px;
+    color: rgb(97, 97, 97);
+}
+
+.textbox {
+    height: 32px;
+    width: 380px;
+    font-size: large;
+    color: rgb(104, 104, 104);
+    padding-top: 7px;
+    padding-bottom: 6px;
+    padding-left: 9px;
+    margin-bottom: 25px;
+    border-radius: 7px;
+    border: 1px solid rgb(214, 212, 212);
+}
+
+
+.ore {
+    font-size: 20px;
+    color: rgb(97, 97, 97);
+
+}
+
+.mailbox {
+    height: 44px;
+    margin: 0px 20px 30px 20px;
+    padding-top: 12px;
+    border-radius: 7px;
+    border: 1px solid rgb(194, 192, 192);
+}
+
+.gimg {
+    width: 20px;
+    margin-bottom: -25px;
+    margin-left: 90px;
+}
+
+.Email {
+    text-decoration: none;
+    color: rgb(97, 97, 97);
+    font-size: medium;
+    font-weight: 300;
+    font-family: Okra, Helvetica, sans-serif;
+    margin-top: 5px;
+}
+
+.paragraph {
+
+    font-size: 17px;
+    font-family: Okra, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 24px;
+    color: rgb(130, 130, 130);
+}
+
+.create {
+
+    text-decoration: none;
+    color: rgb(234, 126, 126);
+}
+
+.signbtn{
+  
+    background-color: rgb(208, 91, 41);
+    border-radius: 15px 10px;
+    border: 2px solid white;
+    width: 100px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+  }
